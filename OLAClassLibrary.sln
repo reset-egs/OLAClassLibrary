@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLAClassLibrary", "OLAClassLibrary\OLAClassLibrary.csproj", "{2A4964EE-3A74-43DD-95A0-F095C359DD3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLAClassLibraryTests", "OLAClassLibraryTests\OLAClassLibraryTests.csproj", "{9128F4AF-A849-4B2C-BB31-9A116195694E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A4964EE-3A74-43DD-95A0-F095C359DD3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4964EE-3A74-43DD-95A0-F095C359DD3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4964EE-3A74-43DD-95A0-F095C359DD3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4964EE-3A74-43DD-95A0-F095C359DD3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9128F4AF-A849-4B2C-BB31-9A116195694E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9128F4AF-A849-4B2C-BB31-9A116195694E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9128F4AF-A849-4B2C-BB31-9A116195694E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9128F4AF-A849-4B2C-BB31-9A116195694E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D368968B-0788-43DC-90EF-60054D85753B}
+	EndGlobalSection
+EndGlobal
